@@ -88,5 +88,4 @@ Kogon, K., & Blakemore, S. (2024). *Project Management for the Unofficial Projec
 
 ## Author
 
-**Benjamin Duske** — sole author and contributor. This is my individual coursework for
-CMPA 3301; I'm the only one committing to it.
+**Benjamin Duske**
