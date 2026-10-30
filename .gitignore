@@ -1,0 +1,17 @@
+# CMPA 3301 — only Deliverables folders are tracked.
+# Assignment folders, course Info, and Resources stay local and private.
+
+# Ignore every week's Assignment folder (source material, lectures, readings)
+Week_*/Assignment/
+
+# Ignore the private reference folders used to build the README
+Info/
+Resources/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
